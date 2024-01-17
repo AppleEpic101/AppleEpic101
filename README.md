@@ -1,8 +1,8 @@
 ### Hello?
 
-![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=AppleEpic69&show_icons=true&theme=tokyonight)
+![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=AppleEpic101&show_icons=true&theme=tokyonight)
 <br/><br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AppleEpic69&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AppleEpic101&theme=tokyonight)
 
 <!--
 **AppleEpic69/AppleEpic69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
